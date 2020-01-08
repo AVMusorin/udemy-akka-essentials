@@ -3,4 +3,5 @@
 .idea
 null
 target
-.idea
+.idea/
+/project/target/
